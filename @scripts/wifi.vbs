@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "c:\Apps\cmdline\@scripts\wifi.bat", 0, True

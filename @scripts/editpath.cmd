@@ -1,0 +1,1 @@
+@vim %~dp0..\cmder_path.bat
