@@ -1,6 +1,6 @@
 # cmdline
 
-Project that makes windows command line usefull, by adding/integrating <b>cmder</b> with:
+Project that makes MS Windows command line usefull, by adding/integrating <b>cmder</b> with:
 
 <ul>
   <li>installation script <b>cmder_install.bat</b> (that register cmder and create a special link for it inside %windir% directory)</li>
